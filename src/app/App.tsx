@@ -55,7 +55,7 @@ export default function App() {
       <section id="home" className="min-h-screen flex items-center justify-center px-4 pt-16">
         <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-12 items-center">
           <div className="order-2 md:order-1">
-            <div className="text-emerald-400 mb-4">Halo, Saya</div>
+            <div className="text-emerald-400 mb-4">Halo, Saya Aditya Rai Setiadi</div>
             <h1 className="text-5xl md:text-6xl mb-4 text-white">Mahasiswa Teknik Informatika</h1>
             <p className="text-xl text-slate-300 mb-8">Spesialisasi Web Development & IoT</p>
             <p className="text-slate-400 mb-8">
