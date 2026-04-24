@@ -425,7 +425,7 @@ export default function App() {
       <footer className="bg-slate-900 border-t border-slate-700 py-8">
         <div className="max-w-7xl mx-auto px-4 text-center">
           <p className="text-slate-400">
-            © 2026 Portfolio. Built with React & Tailwind CSS.
+            © 2026 Aditya Rai Setiadi. Everything belongs to GOD.
           </p>
         </div>
       </footer>
