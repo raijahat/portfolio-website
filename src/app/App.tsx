@@ -302,9 +302,9 @@ export default function App() {
                 <Cpu size={64} className="text-white" />
               </div>
               <div className="p-6">
-                <h3 className="text-xl mb-2 text-white">Automated Plant Watering</h3>
+                <h3 className="text-xl mb-2 text-white">SmartSpray</h3>
                 <p className="text-slate-400 mb-4">
-                  Sistem penyiraman tanaman otomatis dengan monitoring kelembaban tanah melalui aplikasi web.
+                  Sistem penyiraman tanaman otomatis dengan monitoring kelembaban tanah melalui aplikasi blynk.
                 </p>
                 <div className="flex flex-wrap gap-2">
                   <span className="px-3 py-1 bg-emerald-500/20 text-emerald-400 rounded-full text-sm">Vue.js</span>
@@ -338,9 +338,9 @@ export default function App() {
                 <Code size={64} className="text-white" />
               </div>
               <div className="p-6">
-                <h3 className="text-xl mb-2 text-white">Smart Parking System</h3>
+                <h3 className="text-xl mb-2 text-white">APPEM</h3>
                 <p className="text-slate-400 mb-4">
-                  Sistem parkir pintar dengan sensor ultrasonik dan web dashboard untuk monitoring ketersediaan slot parkir.
+                  Aplikasi pengaduan masyarakat berbasis website untuk kelurahan.
                 </p>
                 <div className="flex flex-wrap gap-2">
                   <span className="px-3 py-1 bg-emerald-500/20 text-emerald-400 rounded-full text-sm">Angular</span>
