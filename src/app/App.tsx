@@ -363,7 +363,7 @@ export default function App() {
             </p>
             <div className="grid md:grid-cols-2 gap-6 mb-8">
               <a
-                href="mailto:your.email@example.com"
+                href="mailto:adityaraisetiadi43@gmail.com"
                 className="flex items-center gap-4 p-4 bg-slate-700/50 rounded-lg hover:bg-slate-700 transition-colors"
               >
                 <div className="p-3 bg-emerald-500/20 rounded-lg">
@@ -371,11 +371,11 @@ export default function App() {
                 </div>
                 <div>
                   <div className="text-slate-400 text-sm">Email</div>
-                  <div className="text-white">your.email@example.com</div>
+                  <div className="text-white">adityaraisetiadi43@gmail.com</div>
                 </div>
               </a>
               <a
-                href="https://github.com/yourusername"
+                href="https://github.com/raijahat"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 p-4 bg-slate-700/50 rounded-lg hover:bg-slate-700 transition-colors"
@@ -385,7 +385,7 @@ export default function App() {
                 </div>
                 <div>
                   <div className="text-slate-400 text-sm">GitHub</div>
-                  <div className="text-white">@yourusername</div>
+                  <div className="text-white">@raijahat</div>
                 </div>
               </a>
               <a
